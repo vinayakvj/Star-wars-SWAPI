@@ -1,3 +1,7 @@
+# Problem 
+
+This project is to fetch the details from the SWAPI and provide the user with particular details. It also shows the Graphichal representation of the count of Different categories ie, People, Starship, Vehicles and Planets.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
